@@ -30,9 +30,9 @@ Another Insight dan rekomendasi
 
 2. Diketahui bahwa barang dengan tingkat kepentingan barang 'low' dan 'medium' memiliki jumlah pemesanan yang tinggi serta diketahui juga bahwa tingkat kepentingan barang tersebut tidak ada kaitannya dengan harga barang.
 
-Kemudian dari tabel persen ketepatan waktu, diketahui bahwa persentase pengiriman yang terlambat hampir sama pada seluruh tingkat kepentingan barang.
+   Kemudian dari tabel persen ketepatan waktu, diketahui bahwa persentase pengiriman yang terlambat hampir sama pada seluruh tingkat kepentingan barang.
 
-Jadi, dengan mempertimbangkan kedua hal tersebut, maka disarankan untuk mengutamakan pengiriman barang dengan tingkat kepentingan 'low' dan 'medium'.
+   Jadi, dengan mempertimbangkan kedua hal tersebut, maka disarankan untuk mengutamakan pengiriman barang dengan tingkat kepentingan 'low' dan 'medium'.
 
 3. Dapat dilihat dari grafik diatas bahwa barang yang diberi diskon lebih dari 10% seluruhnya mengalami keterlambatan pengiriman.
 
